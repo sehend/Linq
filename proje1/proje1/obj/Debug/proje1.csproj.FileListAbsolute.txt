@@ -1,0 +1,16 @@
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\bin\Debug\proje1.exe.config
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\bin\Debug\EntityFramework.dll
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\bin\Debug\EntityFramework.xml
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\obj\Debug\proje1.csprojAssemblyReference.cache
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\obj\Debug\proje1.Form1.resources
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\obj\Debug\proje1.csproj.GenerateResource.cache
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\obj\Debug\proje1.csproj.CopyComplete
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\obj\Debug\proje1.pdb
+C:\Users\S3H3ND\Desktop\linq\proje1\proje1\obj\Debug\proje1.Form2.resources
